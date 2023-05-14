@@ -25,3 +25,46 @@ def my_list_sorting(check_list: list) -> list:
         final_list[counter] = check_list[i]
         counter = 0
     return final_list
+
+#after googling
+
+#bubble sorting - checking pairs of elements
+#returns sorted list without creating a new one
+def bubble_sort(check_list: list) -> list:
+    """
+    Returns sorted list without creating a new one = checked_list will change elements
+    :param check_list: list
+    :return: the same list but sorted
+    """
+    #flag is in position True to start the loop
+    flag = True
+    while flag:
+        flag = False
+        for i in range(len(check_list) - 1):
+            if check_list[i] > check_list[i+1]:
+                #change 2 elements with each other
+                check_list[i], check_list[i+1] = check_list[i+1], check_list[i]
+                #return flag to True for the next itertion
+                flag = True
+    return check_list
+
+#selection sort - divides a list into two segments (sorted and unsorted)
+# checks each element from a sorted segment with elements in unsorted segment
+# changes elements if lower
+def selection_sort(list_for_sort: list) -> list:
+    """
+    Sorting of the list with selection method
+    :param check_list: list
+    :return: the same list but sorted
+    """
+    #i is number of sorted values
+    for i in range(len(list_for_sort)):
+        # first element is the lowest b default
+        lowest_value_index = i
+        # iterate unsorted elements
+        for j in range(i+1, len(list_for_sort)):
+            if list_for_sort[j] < list_for_sort[lowest_value_index]:
+                lowest_value_index = j
+        # the lowest element changes its position with the first from the list
+        list_for_sort[i], list_for_sort[lowest_value_index] = list_for_sort[lowest_value_index], list_for_sort[i]
+    return list_for_sort
