@@ -1,5 +1,14 @@
 # DSCourse_zmiterpimenau
-## **Scrapping task:**
+
+## **Homework# 5**
+
+- **Animals' classes**: lesson5_homework_Animals.ipynb
+- **Suffix Tree**: Loading [■■□□□□□□□□] 20% of understanding
+
+
+
+
+## **Scrapping task (homework# 4):**
 
 - **scrapping call**: - scrapping.ipynb -> Run All (Ctrl+Alt+Shift+Enter)
 _*to update with functions_*
