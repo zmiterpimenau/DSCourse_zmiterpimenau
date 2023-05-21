@@ -1,5 +1,13 @@
 # DSCourse_zmiterpimenau
 
+## **Homework# 6**
+- **call**: lesson6_homework_Animals.ipynb
+- **routes to files with results**: /DSCourse_zmiterpimenau/data/animal_move.txt
+  /DSCourse_zmiterpimenau/data/vet_check_results.txt
+- **data format**: .txt
+ 
+
+
 ## **Homework# 5**
 
 - **Animals' classes**: lesson5_homework_Animals.ipynb
