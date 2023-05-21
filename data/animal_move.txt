@@ -1,0 +1,24 @@
+<move>: Executed at 2023-05-21 19:23:54
+Output result: 'Dog Rex covers distance 10 km in 0.33 hours
+
+'
+<move>: Executed at 2023-05-21 19:23:57
+Output result: 'Cat Garfield covers distance 10 km in 0.31 hours
+
+'
+<move>: Executed at 2023-05-21 19:24:01
+Output result: 'Horse Fasty covers distance 10 km in 0.11 hours
+
+'
+<move>: Executed at 2023-05-21 19:24:05
+Output result: 'Dog Jim covers distance 100 km in 4.17 hours
+
+'
+<move>: Executed at 2023-05-21 19:24:10
+Output result: 'Dog Jessie covers distance 100 km in 5.79 hours
+
+'
+<move>: Executed at 2023-05-21 19:24:16
+Output result: 'Dog Issi covers distance 100 km in 8.82 hours
+
+'

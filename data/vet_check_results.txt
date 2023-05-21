@@ -1,0 +1,40 @@
+START OF INSPRCTION
+Rex is a dog
+He is 5 years old, 50 cm tall, 25 kg.
+Weight is perfect!
+Rex can have children
+Max speed 30.0 km/h
+END OF INSPECTION
+
+START OF INSPRCTION
+Fasty is a horse
+He is 4 years old, 150 cm tall, 300 kg.
+Weight is perfect!
+Fasty can have children
+Max speed 90.0 km/h
+END OF INSPECTION
+
+START OF INSPRCTION
+Garfield is a cat
+He is 3 years old, 20 cm tall, 15 kg.
+Weight is higher than normal. Need another diet
+Garfield can have children
+Max speed 32.0 km/h
+END OF INSPECTION
+
+START OF INSPRCTION
+Jim is a dog
+He is 4 years old, 40 cm tall, 20 kg.
+Weight is perfect!
+Jim can have children
+Max speed 24.0 km/h
+END OF INSPECTION
+
+START OF INSPRCTION
+Jessie is a dog
+She is 4 years old, 40 cm tall, 25 kg.
+Weight is higher than normal. Need another diet
+Jessie can have children
+Max speed 17.28 km/h
+END OF INSPECTION
+
