@@ -1,5 +1,9 @@
 # DSCourse_zmiterpimenau
 
+## **Homework# 7**
+- **call**: lesson7_titanic_space.ipynb
+- **results**: observations are in the end of the .ipynb file
+
 ## **Homework# 6**
 - **call**: lesson6_homework_Animals.ipynb
 - **routes to files with results**: /DSCourse_zmiterpimenau/data/animal_move.txt
