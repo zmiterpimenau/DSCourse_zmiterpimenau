@@ -1,8 +1,17 @@
 # DSCourse_zmiterpimenau
 
+
+## **Homework# 10**
+- **call**: lesson10_homework.ipynb
+- **routes to files with results**: inside itself
+- **data format**: .ipynb
+- **date**: Jun 4
+
+
 ## **Homework# 7**
 - **call**: lesson7_titanic_space.ipynb
 - **results**: observations are in the end of the .ipynb file
+
 
 ## **Homework# 6**
 - **call**: lesson6_homework_Animals.ipynb
@@ -15,7 +24,7 @@
 ## **Homework# 5**
 
 - **Animals' classes**: lesson5_homework_Animals.ipynb
-- **Suffix Tree**: Loading [■■□□□□□□□□] 20% of understanding
+- **Suffix Tree**: Loading [■■■■□□□□□□] 40% of understanding
 
 
 
