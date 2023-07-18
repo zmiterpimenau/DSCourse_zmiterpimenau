@@ -1,9 +1,14 @@
 # DSCourse_zmiterpimenau
 
 
+## **Homework# 15**
+- **call**: lesson15.ipynb 
+- **data format**: .ipynb
+- **date**: Jul 18
+
+
 ## **Homework# 10**
 - **call**: lesson10_homework.ipynb
-- **routes to files with results**: inside itself
 - **data format**: .ipynb
 - **date**: Jun 4
 
