@@ -5,15 +5,23 @@
 - **data format**: .ipynb
 - **date**: Jul 20
 
+
 ## **Homework# 15**
 - **call**: lesson15.ipynb 
 - **data format**: .ipynb
 - **date**: Jul 18
 
+
 ## **Homework# 10**
 - **call**: lesson10_homework.ipynb
 - **data format**: .ipynb
 - **date**: Jun 4
+
+
+## **Homework# 7**
+- **call**: lesson7_titanic_space.ipynb
+- **results**: observations are in the end of the .ipynb file
+
 
 ## **Homework# 6**
 - **call**: lesson6_homework_Animals.ipynb
