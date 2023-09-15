@@ -1,5 +1,10 @@
 # DSCourse_zmiterpimenau
 
+## **Homework# 17**
+- **call**: lesson17_ensemles_kfold.ipynb
+- **data format**: .ipynb
+- **date**: Sep 15
+
 ## **Homework# 16**
 - **call**: lesso16_diabetes.ipynb
 - **data format**: .ipynb
