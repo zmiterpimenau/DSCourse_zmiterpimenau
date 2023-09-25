@@ -1,5 +1,10 @@
 # DSCourse_zmiterpimenau
 
+## **Homework# 18**
+- **call**: lesson18_neural_network.ipynb
+- **data format**: .ipynb
+- **date**: Sep 25
+
 ## **Homework# 17**
 - **call**: lesson17_ensemles_kfold.ipynb
 - **data format**: .ipynb
