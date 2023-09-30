@@ -1,5 +1,10 @@
 # DSCourse_zmiterpimenau
 
+## **Homework# 19**
+- **call**: lesson19_trees.ipynb
+- **data format**: .ipynb
+- **date**: Sep 30
+
 ## **Homework# 18**
 - **call**: lesson18_neural_network.ipynb
 - **data format**: .ipynb
