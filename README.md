@@ -1,5 +1,10 @@
 # DSCourse_zmiterpimenau
 
+## **Homework# 20**
+- **call**: lesson20_hyperopt.ipynb
+- **data format**: .ipynb
+- **date**: Oct 3
+
 ## **Homework# 19**
 - **call**: lesson19_trees.ipynb
 - **data format**: .ipynb
