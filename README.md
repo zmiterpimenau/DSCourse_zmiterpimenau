@@ -1,5 +1,10 @@
 # DSCourse_zmiterpimenau
 
+## **Homework# 21**
+- **call**: lesson21_clusters.ipynb
+- **data format**: .ipynb
+- **date**: Oct 5
+
 ## **Homework# 20**
 - **call**: lesson20_hyperopt.ipynb
 - **data format**: .ipynb
