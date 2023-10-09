@@ -1,5 +1,10 @@
 # DSCourse_zmiterpimenau
 
+## **Homework# 22**
+- **call**: lesson22_PCA_LDA_TSNE.ipynb
+- **data format**: .ipynb
+- **date**: Oct 9
+
 ## **Homework# 21**
 - **call**: lesson21_clusters.ipynb
 - **data format**: .ipynb
