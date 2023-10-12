@@ -1,6 +1,11 @@
 # DSCourse_zmiterpimenau
 
 ## **Homework# 22**
+- **call**: lesson23_encoders.ipynb
+- **data format**: .ipynb
+- **date**: Oct 12
+
+## **Homework# 22**
 - **call**: lesson22_PCA_LDA_TSNE.ipynb
 - **data format**: .ipynb
 - **date**: Oct 9
